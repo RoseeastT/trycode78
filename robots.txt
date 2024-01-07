@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewa138online.ellis3dp.com/sitemap.xml
+Sitemap : http://boswin138.id.theoryandpractice.org/sitemap.xml
